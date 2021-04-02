@@ -8,7 +8,7 @@ sections:
       - label: resume
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: images/background.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
