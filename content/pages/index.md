@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hi
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: My name is Ken
     actions:
       - label: Try for free
         url: /pricing
