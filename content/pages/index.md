@@ -5,7 +5,7 @@ sections:
     title: Hi
     subtitle: My name is Ken
     actions:
-      - label: Try for free
+      - label: resume
         url: /pricing
         style: primary
     image: images/hero.svg
